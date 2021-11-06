@@ -1,0 +1,26 @@
+{
+  "name": "weatherapp_v1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "axios": "^0.20.0",
+    "franc": "^5.0.0",
+    "got": "^11.7.0",
+    "koa": "^2.13.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^9.4.0",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^8.0.0",
+    "open": "^7.3.0",
+    "twit": "^2.2.11"
+  }
+}
